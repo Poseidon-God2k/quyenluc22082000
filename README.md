@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nguyen Van Quyen Luc
 - :point_right: I'm studying HCM University of Technology
 - 👀 My major is Computer Science
-- 🌱 I’m currently learning whatever i'm insteresting
+- 🌱 I’m currently learning whatever i'm interesting
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me ...
 
