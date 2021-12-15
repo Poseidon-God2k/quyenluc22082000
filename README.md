@@ -6,12 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyenluc22082000&theme=merko&show_icons=true)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quyenluc22082000&theme=merko&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quyenluc22082000&langs_count=8)
+
 
 <!---
 quyenluc22082000/quyenluc22082000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
