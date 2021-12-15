@@ -1,7 +1,7 @@
 
 <h2 align="center">My Info</h2>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2341F722&multiline=true&height=100&lines=Hi%2C+My+name+is+Nguyen+Van+Quyen+Luc;I'm+studying+HCM+University+of+Technology">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2341F722&multiline=true&height=60&lines=Hi%2C+My+name+is+Nguyen+Van+Quyen+Luc;I'm+studying+HCM+University+of+Technology">
 </p>
 </h2>
   
@@ -11,12 +11,16 @@
 </p>
 </h2>
 
+<h2 align="center">Contribute</h2>
+<p align="center">
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=quyenluc22082000&theme=merko&show_icons=true"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenluc22082000&langs_count=5&layout=compact&theme=merko&show_icons=true&title_color=41F722&icon_color=34abeb&text_color=41F722&bg_color=151515"/></td>
   </tr>
-</table
+</table>
+</p>
+</h2>
 
 <!---
 quyenluc22082000/quyenluc22082000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
