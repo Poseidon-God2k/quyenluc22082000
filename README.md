@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Nguyen Van Quyen Luc
-- :point_right: I'm studying HCM University of Technology
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2341F722&multiline=true&height=100&lines=Hi%2C+My+name+is+Nguyen+Van+Quyen+Luc;I'm+studying+HCM+University+of+Technology)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quyenluc22082000&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=1BFF0C&dates=48DD24&stroke=DD7B22&ring=3CDD43&currStreakNum=F3FF5C&sideNums=F3FF5C&currStreakLabel=DDB440&sideLabels=C8DD4B)](https://git.io/streak-stats)
 
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=quyenluc22082000&theme=merko&show_icons=true"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenluc22082000&langs_count=5&layout=compact&theme=merko&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenluc22082000&langs_count=5&layout=compact&theme=merko&show_icons=true&title_color=41F722&icon_color=34abeb&text_color=146203&bg_color=151515"/></td>
   </tr>
 </table
 
