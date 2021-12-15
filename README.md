@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=quyenluc22082000&theme=merko&show_icons=true"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenluc22082000&langs_count=5&layout=compact&theme=merko&show_icons=true&title_color=41F722&icon_color=34abeb&text_color=2341F722&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenluc22082000&langs_count=5&layout=compact&theme=merko&show_icons=true&title_color=41F722&icon_color=34abeb&text_color=41F722&bg_color=151515"/></td>
   </tr>
 </table
 
